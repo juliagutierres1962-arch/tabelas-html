@@ -1,0 +1,22 @@
+.td {
+   border: 1px solid black;
+   padding: 10px;
+   text-align: center;
+   vertical-align: middle;
+}
+td:last-child {
+   vertical-align: middle;
+   font-size: 30px;
+   text-align: center;
+   vertical-align: middle;
+}
+.topo{
+    background-color: #000000;
+    color: white;
+}
+.coluna1{
+    background-color: rgb(136, 130, 130)
+}
+.coluna2{
+    background-color: #fdfbfb;
+}
