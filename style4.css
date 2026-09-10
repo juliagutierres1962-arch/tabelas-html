@@ -1,0 +1,50 @@
+body {
+
+    font-family: Arial;
+
+    margin: 40px;
+
+}
+
+table {
+
+    width: 80%;
+
+    border-collapse: collapse;
+
+}
+
+th {
+
+    background-color: #f1d900;
+
+    padding: 10px;
+
+    text-align: left;
+
+}
+
+td {
+
+    border: 1px solid #ddd;
+
+    height: 180px;
+
+    padding: 10px;
+
+}
+
+img {
+
+    width: 180px;
+
+    height: 160px;
+
+    object-fit: contain;
+
+    display: block;
+
+    margin: auto;
+
+}
+ 
